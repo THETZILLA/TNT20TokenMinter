@@ -24,7 +24,7 @@
 
 5) The contract has been created. In this example we created contract address: "0xf1ca2dc3037c8d22a4aa4b508990d0b9acf86548"
 6) Now we are going to publish the contract. Open ThetaExplorer (https://explorer.thetatoken.org/) and paste the contract address.
-7) Find the contract tab and paste the contents of your contract taken from REMIX (Here is where you can add the contract address to the comments and our website, twitter account, etc). Click on verify and publish
+7) Find the contract tab and paste the contents of your contract taken from REMIX (Here is where you can add the contract address to the comments and your website, twitter account, etc). Click on verify and publish
    <img width="1066" alt="image" src="https://github.com/THETZILLA/TNT20TokenMinter/assets/156357319/b85212ef-510d-4820-be9a-faf16038fc50">
 
 **And we are done!**
