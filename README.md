@@ -5,7 +5,7 @@
 1) Copy the contents of 'contract.sol'
 2) Go to https://remix.ethereum.org/ and create a new file in your workspace.
    - Right click on workspace + create new file.
-   - Name the file. Remix will automatically set it as .sol extension.
+   - Name the file... Remix will automatically set it as .sol extension.
    - Paste the previously copied content of the contract.sol file and save the file (cmd + s / ctrl + s).
    - Go to the compilation tab (should be giving you an error by now)
    - Once there, change the compiler version to 0.7.4 and then click on compile.
