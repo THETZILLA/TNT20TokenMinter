@@ -1,5 +1,6 @@
 **TNT20TokenMinter**
 **Quick tutorial on how to release your own TNT20 token on the Theta Network**
+***Note: this code allows the contract owner to mint more tokens after the contract is deployed - please keep that in mind as it affects the token supply***
 
 
 1) Copy the contents of 'contract.sol'
